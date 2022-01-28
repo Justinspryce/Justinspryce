@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Justinspryce
 - 👀 I’m interested in ...Web Apps
 - 🌱 I’m currently learning ...Python
-- 💞️ I’m looking to collaborate on ...Web Apps
+- 💞️ I’m looking to collaborate on ...Adempiere Framework
 - 📫 How to reach me ...justixlandkrim@outlook.com
 
 <!---
